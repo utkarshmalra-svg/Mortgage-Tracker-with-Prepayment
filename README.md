@@ -16,7 +16,6 @@ The model includes:
 - Interest rate
 - Loan tenure
 - Monthly payment
-- Payment dates
 - Interest paid
 - Principal paid
 - Additional principal / pre-payment
